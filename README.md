@@ -1,3 +1,5 @@
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Wasana Sampath</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=F5F7F0&center=true&vCenter=true&width=450&lines=%F0%9F%93%9D+Undegraduate+of+BICT+;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Focussed+on+Network+Engineering+%26+CyberSecurity+%F0%9F%94%90;%F0%9F%8E%93+University+of+Sri+Jayewardenepura%2C+Sri+Lanka+;%E2%9B%B3+CTF%2C+THM+%26+HTB+Player+%F0%9F%8F%B9" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@wasanasampath&textBg=false&reversal=false&descAlign=0&animation=twinkling&stroke=010409&descAlignY=0&strokeWidth=0&section=header" width="37%" align="center" alt="You did not get it right?" />
   <br>
