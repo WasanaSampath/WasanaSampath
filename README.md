@@ -1,14 +1,29 @@
 <div align="center">
-  <p align="center">
+<p align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="22" alt="You did not get it right?">
     <img src="https://komarev.com/ghpvc/?username=WasanaSampath&label=Profile%20views&color=0e75b6&style=flat" />
-    <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Wasana Sampath</h1>
-    <div>
+  
+  <p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/wasana-sampath" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" style="margin:20">        
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://wa.me/+947678679251" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="50" alt="You did not get it right?" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.facebook.com/share/5o1ajbAoiEdSXguq/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="50" width="50" style="margin:20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:skwsampath@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="You did not get it right?"/></a>
+</p>
+   <h1 align="center">
+  Hello there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  , I'm <a href="https://sampl.com" target="_blank">Wasana Sampath</a>
+</h1>
+
+  <div>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=F5F7F0&center=true&vCenter=true&width=650&lines=%F0%9F%93%9D+Undegraduate+of+BICT+;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Focussed+on+Network+Engineering+%26+CyberSecurity+%F0%9F%94%90;%F0%9F%8E%93+University+of+Sri+Jayewardenepura%2C+Sri+Lanka+;%E2%9B%B3+CTF%2C+THM+%26+HTB+Player+%F0%9F%8F%B9" alt="Typing SVG" />
       </a>
     </div>
-  </p>
+ 
 </div>
 
 > [!NOTE]  
@@ -25,6 +40,11 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=wasanasampath&cc=transparent&tc=aaa&ic=aaa&bc=transparent" height="20%" alt="GitHub Summary Stats"/>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/skwsampath.png" alt="Your Image Badge" />
+
+<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+<br>
+<br>
 
   <table>
     <tr>
@@ -87,16 +107,26 @@
 <hr>
 </div>
 
-<hr>
+
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasanasampath&theme=transparent&hide_border=true" align="left" width="100%" alt="You did not get it right?"/>
 
-<p align="center">
- 
+<hr>
+ <h1 align="center">Contacts</h1>
+ <p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/wasana-sampath" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" style="margin:20">        
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://wa.me/+947678679251" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="50" alt="You did not get it right?" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.facebook.com/share/5o1ajbAoiEdSXguq/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="50" width="50" style="margin:20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:skwsampath@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="You did not get it right?"/></a>
+
 </p>
 
 <img src="https://github.com/wasanasampath/wasanasampath/blob/main/images/Plant.gif" align="right" width="20%" alt="You did not get it right?"/>
+
 
 > [!TIP]\
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="You did not get it right?"/>
