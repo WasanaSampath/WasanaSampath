@@ -8,6 +8,9 @@
     <a href="https://www.linkedin.com/in/wasana-sampath" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" style="margin:20">        
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/+947678679251" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="50" alt="You did not get it right?" /></a>
+<a href="https://sample.com/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.facebook.com/share/5o1ajbAoiEdSXguq/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="50" width="50" style="margin:20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:skwsampath@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="You did not get it right?"/></a>
@@ -119,6 +122,9 @@
     <a href="https://www.linkedin.com/in/wasana-sampath" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" style="margin:20">        
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/+947678679251" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="50" alt="You did not get it right?" /></a>
+     <a href="https://sample.com/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.facebook.com/share/5o1ajbAoiEdSXguq/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="50" width="50" style="margin:20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:skwsampath@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="You did not get it right?"/></a>
@@ -134,18 +140,10 @@
 </br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=18&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&height=40&lines=Reach+me+via+above+links+%F0%9F%94%97+%2C+glad+to+be+working+together!;Fork%2C+Commit+%26+Pull+valuable+%F0%9F%92%8E+collaborations+are+warmly+welcomed!;Show+some+love+by+starring+%E2%AD%90+some+of+the+repositories+below!" alt="You did not get it right?" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=18&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&height=40&lines=Reach+me+via+above+links+%F0%9F%94%97+%2C+glad+to+be+working+together!;Fork%2C+Commit+%26+Pull+valuable+%F0%9F%92%8E+collaborations+are+warmly+welcomed!;Show+some+love+by+starring+%E2%AD%90+some+of+the+repositories+above!" alt="You did not get it right?" />
 </div>
 
 
-
-- 👋 Hi, I’m @WasanaSampath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 WasanaSampath/WasanaSampath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
