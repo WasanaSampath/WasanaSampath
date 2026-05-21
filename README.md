@@ -27,7 +27,7 @@
 > 
 > I am passionate about **network security protocols, threat analysis, and secure system design**. Actively engaging on **TryHackMe** and **Hack The Box**, I take on **CTF challenges** to hone my skills in real-world cybersecurity scenarios. My focus extends to **data protection, system resilience**, and advancing secure cloud and network practices.
 > 
-> I’m always open to collaborating on projects that **address real-world challenges** in network and cloud security. Feel free to connect via **[skwsampath@gmail.com](mailto:skwsampath@gmail.com)**!
+> I’m always open to collaborating on projects that **address real-world challenges** in network and cloud security. 
 
 ----
 
