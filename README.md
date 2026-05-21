@@ -111,7 +111,6 @@
 <hr>
  <h1 align="center">Contacts</h1>
  <p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/wasana-sampath" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" style="margin:20">        
     </a>
 
