@@ -6,14 +6,7 @@
   <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/wasana-sampath" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" style="margin:20">        
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://wa.me/+947678679251" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="50" alt="You did not get it right?" /></a>
-<a href="https://sample.com/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/share/5o1ajbAoiEdSXguq/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="50" width="50" style="margin:20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:skwsampath@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="You did not get it right?"/></a>
+    
 </p>
    <h1 align="center">
   Hello there 
